@@ -35,3 +35,4 @@ assert(factorial(4) == 24);
 ## Puzzles 
 
 * [1](puzzles/1.md)
+* [2](puzzles/2.md)
